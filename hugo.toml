@@ -1,4 +1,6 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://seneca-engineering-students-society.github.io/website-/"
+relativeURLs = true
+canonifyURLs = true
 languageCode = "en-us"
 title = "Engineering Society"
 theme = "blowfish"
