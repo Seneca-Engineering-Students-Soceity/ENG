@@ -1,5 +1,5 @@
 baseURL = "https://seneca-engineering-students-society.github.io/website-/"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 languageCode = "en-us"
 title = "Engineering Society"
