@@ -1,0 +1,43 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Engineering Society"
+theme = "blowfish"
+
+[params]
+  description = "Engineering Society — Events, projects, and community."
+  colorScheme = "Red"
+  defaultAppearance = "dark" # or "light"
+  autoSwitchAppearance = true
+
+[params.assets]
+  customCSS = ["css/custom.css"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    pageRef = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Events"
+    pageRef = "/events/"
+    weight = 3
+  [[menu.main]]
+    name = "Team"
+    pageRef = "/team/"
+    weight = 4
+  [[menu.main]]
+    name = "Blog"
+    pageRef = "/blog/"
+    weight = 5
+  [[menu.main]]
+    name = "Join"
+    pageRef = "/join/"
+    weight = 6
+  [[menu.main]]
+    name = "Contact"
+    pageRef = "/contact/"
+    weight = 7

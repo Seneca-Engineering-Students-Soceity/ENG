@@ -1,0 +1,21 @@
+/*Amirali Sahamianmoghaddam
+ Engineering society Web page
+ Feb 21 21:00
+ Custompage.
+
+ */
+
+.main-section {
+   padding: 5rem 1rem 2 rem 1 rem; 
+   text-align: center;
+}
+.main-seciton h1 { 
+   font-size: clamp(2rem, 4vw, 3.2rem);
+   margin-bottom 1rem;
+ }
+
+.main-section p { 
+  max-width: 750px;
+  margin: auto;
+  opacity: 0.85;
+}
