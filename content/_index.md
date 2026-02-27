@@ -1,10 +1,12 @@
-title:""
+---
+title: "Engineering Society"
+description: "Code, Make, Hack"
+---
 
-<!-- Amirali Sahamianmoghaddam  -->
-<!-- Enigineering Web-page -->
-<!-- Feb 21 20:10 -->
+Welcome to Seneca Engineering Society.
 
-<div class = "main-section">
-<h1> Enginering society </h1>
-<p> We are the SENECA Engineers </p>
-</div>
+## What we do
+- Events
+- Workshops
+- Projects
+- Community
