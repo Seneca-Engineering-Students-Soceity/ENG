@@ -1,4 +1,4 @@
-baseURL = "https://seneca-engineering-students-society.github.io/website-/"
+baseURL = "https://seneca-engineering-students-soceity.github.io/website-/"
 relativeURLs = false
 canonifyURLs = true
 languageCode = "en-us"
