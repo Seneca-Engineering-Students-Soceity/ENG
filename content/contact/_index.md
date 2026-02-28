@@ -1,4 +1,5 @@
 ---
 title: "Contact"
 ---
-Contact us at engineering@seneca.ca
+Contact us at senecaengineering.org
+

@@ -1,6 +1,6 @@
-
+---
 title: "About"
-draft: false
+---
 
 
 ## About page content here.
