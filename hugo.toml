@@ -1,4 +1,4 @@
-baseURL = "https://seneca-engineering-students-society.github.io/ENG/"
+baseURL = "https://seneca-engineering-students-soceity.github.io/ENG/"
 publishDir = "docs"
 relativeURLs = false
 canonifyURLs = true
