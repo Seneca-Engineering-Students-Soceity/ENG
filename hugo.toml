@@ -16,3 +16,41 @@ theme = "blowfish"
 
 [params.assets]
   customCSS = ["css/custom.css"]
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    pageRef = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Events"
+    pageRef = "/events/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Team"
+    pageRef = "/team/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Blog"
+    pageRef = "/blog/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Join"
+    pageRef = "/join/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Contact"
+    pageRef = "/contact/"
+    weight = 7
