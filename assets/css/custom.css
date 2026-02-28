@@ -1,30 +1,49 @@
-:root {
-  --color-primary-500: #c8102e;
-  --color-primary-600: #a50e26;
-  --color-primary-700: #8c0c20;
+/* Navbar */
+header {
+  background-color: #b00000 !important;
 }
 
-body {
-  background-color: #ffffff;
-}
-html, body {
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden;
+header a,
+header span {
+  color: white !important;
+  font-weight: 500;
 }
 
-body {
-  outline: 6px solid #00ff66;
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+/* Hover */
+header a:hover {
+  color: #ffdddd !important;
 }
 
-main {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 40px 20px;
+/* Hero Section */
+.prose h1 {
+  color: #b00000;
+  font-weight: 700;
 }
 
-img, video, canvas, svg {
-  max-width: 100%;
-  height: auto;
+/* Buttons */
+.button,
+.btn,
+a[href*="join"] {
+  background-color: #b00000 !important;
+  color: white !important;
+  padding: 10px 22px;
+  border-radius: 6px;
+  transition: 0.3s ease;
+}
+
+.button:hover,
+.btn:hover,
+a[href*="join"]:hover {
+  background-color: #800000 !important;
+}
+
+/* Footer */
+footer {
+  background-color: #111 !important;
+  color: white !important;
+}
+
+/* Remove weird borders */
+* {
+  border-color: transparent !important;
 }

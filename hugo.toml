@@ -9,8 +9,10 @@ theme = "blowfish"
 
 [params]
   description = "Engineering Society – Events, projects, and community."
-  colorScheme = "fire"
+  colorScheme = "red"
   defaultAppearance = "light"
-  autoSwitchAppearance = true
+  autoSwitchAppearance = false
 
 
+[params.assets]
+  customCSS = ["css/custom.css"]
