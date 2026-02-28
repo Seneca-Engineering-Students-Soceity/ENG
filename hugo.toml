@@ -1,11 +1,11 @@
 baseURL = "https://seneca-engineering-students-soceity.github.io/ENG/"
+publishDir = "docs"
 relativeURLs = true
 canonifyURLs = true
 languageCode = "en-us"
 title = "Engineering Society"
 theme = "blowfish"
 
-publishDir = "docs"
 
 [params]
   description = "Engineering Society – Events, projects, and community."
@@ -13,5 +13,4 @@ publishDir = "docs"
   defaultAppearance = "light"
   autoSwitchAppearance = true
 
-[params.assets]
-  customCSS = ["css/custom.css"]
+
