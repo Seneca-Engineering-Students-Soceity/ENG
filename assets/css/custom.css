@@ -1,4 +1,12 @@
+:root {
+  --color-primary-500: #c8102e;
+  --color-primary-600: #a50e26;
+  --color-primary-700: #8c0c20;
+}
 
+body {
+  background-color: #ffffff;
+}
 html, body {
   margin: 0;
   padding: 0;
